@@ -33,12 +33,11 @@ const agregarAToDoList = () =>{
 
 
 let todoList = JSON.parse(localStorage.getItem("todoList")) || [];
-//let todoListEliminado = JSON.parse(localStorage.getItem("todoListEliminado")) || [];
 
-//if(todoList.length > 0) agregarAToDoList();
+if(todoList.length > 0) agregarAToDoList();
 
 //* uso de operador AND 
-todoList.length > 0 && agregarAToDoList();
-//todoListEliminado.length > 0 && AgregarToDoEliminado();
+//todoList.length > 0 && agregarAToDoList();
+
 
     
