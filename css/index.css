@@ -1,0 +1,77 @@
+*
+body {
+    background-color: #dfe5ee ;
+    background-size: cover;
+    
+  }
+
+.titulo {
+    margin-top: 2%;
+    text-align: center;
+    color: #F4A9A8;
+    font-family: 'Truculenta', sans-serif;
+
+
+}
+
+.subtitulo {
+    margin-top: 2%;
+    text-align: center;
+    color: #CE97B0 ;
+    font-family: 'Truculenta', sans-serif;
+
+}
+
+
+
+#inputSeleccionar, #inputSeleccionarActividad {
+    margin-left: 8%;
+    margin-top: 3%;
+    font-family: 'Truculenta', sans-serif;
+    font-size: x-large;
+    background-color: #fcf3f1;
+}  
+
+#inputActividad, #inputFecha{
+    margin-left: 8%;
+    margin-top: 3%;
+    font-family: 'Truculenta', sans-serif;
+    font-size: x-large;
+    
+}
+
+#btnAgregarActividad{
+    margin-left: 48%;
+    margin-top: 5%;
+    color: white;
+    background-color: #CE97B0;
+    font-family: 'Truculenta', sans-serif;
+    font-size: large;
+}
+
+.cuadro{
+    text-align: left;
+    
+}
+.seccion-tabla{
+    color: #CE97B0;
+    font-family: 'Truculenta', sans-serif;
+    font-size: x-large;
+    text-align: left;
+    
+}
+
+.container2{
+    justify-content: center;
+    margin: 2%;
+}
+
+
+img{
+    height: 30px;
+}
+
+.pointer{
+    cursor: pointer;
+}
+

@@ -1,0 +1,27 @@
+
+[
+    {"nombre": "Buenos Aires", "capital": "La Plata", "ubicacion": "Centro-Este de Argentina"},
+    {"nombre": "Catamarca", "capital": "San Fernando del Valle de Catamarca", "ubicacion": "Noroeste de Argentina"},
+    {"nombre": "Chaco", "capital": "Resistencia", "ubicacion": "Norte de Argentina"},
+    {"nombre": "Chubut", "capital": "Rawson", "ubicacion": "Sur de Argentina"},
+    {"nombre": "Córdoba", "capital": "Córdoba", "ubicacion": "Centro de Argentina"},
+    {"nombre": "Corrientes", "capital": "Corrientes", "ubicacion": "Noreste de Argentina"},
+    {"nombre": "Entre Ríos", "capital": "Paraná", "ubicacion": "Centro de Argentina"},
+    {"nombre": "Formosa", "capital": "Formosa", "ubicacion": "Noreste de Argentina"},
+    {"nombre": "Jujuy", "capital": "San Salvador de Jujuy", "ubicacion": "Noroeste de Argentina"},
+    {"nombre": "La Pampa", "capital": "Santa Rosa", "ubicacion": "Centro de Argentina"},
+    {"nombre": "La Rioja", "capital": "La Rioja", "ubicacion": "Noroeste de Argentina"},
+    {"nombre": "Mendoza", "capital": "Mendoza", "ubicacion": "Centro-Oeste de Argentina"},
+    {"nombre": "Misiones", "capital": "Posadas", "ubicacion": "Noreste de Argentina"},
+    {"nombre": "Neuquén", "capital": "Neuquén", "ubicacion": "Suroeste de Argentina"},
+    {"nombre": "Río Negro", "capital": "Viedma", "ubicacion": "Centro-Sur de Argentina"},
+    {"nombre": "Salta", "capital": "Salta", "ubicacion": "Noroeste de Argentina"},
+    {"nombre": "San Juan", "capital": "San Juan", "ubicacion": "Centro-Oeste de Argentina"},
+    {"nombre": "San Luis", "capital": "San Luis", "ubicacion": "Centro de Argentina"},
+    {"nombre": "Santa Cruz", "capital": "Río Gallegos", "ubicacion": "Su de Argentina"},
+    {"nombre": "Santa Fe", "capital": "Santa Fe de la Vera Cruz", "ubicacion": "Noreste de Argentina"},
+    {"nombre": "Santiago del Estero", "capital": "Santiago del Estero", "ubicacion": "Norte de Argentina"},
+    {"nombre": "Tierra del Fuego", "capital": "Ushuaia", "ubicacion": "Sur de Argentina"},
+    {"nombre": "Tucumán", "capital": "San Miguel de Tucumán", "ubicacion": "Noroeste de Argentina"}
+]
+
